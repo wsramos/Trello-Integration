@@ -8,7 +8,7 @@ import lombok.*;
 import java.util.List;
 
 /**
- * @Author William Sampaio Ramos
+ * @author William Sampaio Ramos
  *
  */
 

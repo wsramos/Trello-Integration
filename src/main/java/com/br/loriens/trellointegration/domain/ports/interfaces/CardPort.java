@@ -5,7 +5,6 @@ import com.br.loriens.trellointegration.domain.entities.Card;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;
-import java.util.Objects;
 
 public interface CardPort {
     ResponseEntity<List<Card>> getAllCardsByListId(String idList);

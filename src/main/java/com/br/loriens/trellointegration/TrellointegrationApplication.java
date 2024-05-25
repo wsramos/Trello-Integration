@@ -1,4 +1,4 @@
-package com.br.lorienmentors.trellointegration;
+package com.br.loriens.trellointegration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

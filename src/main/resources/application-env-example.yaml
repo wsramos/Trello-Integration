@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: "trellointegration"
+
+TRELLO:
+  API_KEY: "Sua_API_Key"
+  ACCESS_TOKEN: "Seu_Access_Token"

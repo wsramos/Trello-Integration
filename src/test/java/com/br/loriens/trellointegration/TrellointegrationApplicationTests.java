@@ -1,4 +1,4 @@
-package com.br.lorienmentors.trellointegration;
+package com.br.loriens.trellointegration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
